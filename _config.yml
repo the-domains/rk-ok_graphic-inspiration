@@ -1,7 +1,7 @@
 name: RK-OK_graphic-inspiration
 favicon: null
-layout_spectrum: 0.5525330151431262
-typography_spectrum: 0.3576138545759022
+layout_spectrum: 1
+typography_spectrum: 0.39807
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6698706599418074
-  lightness: 0.4668344941455871
-  saturation: 0.5237128206063062
-  rhythmicContrast: 0.9224263492505997
+    - '#c75426'
+    - '#f3a142'
+    - '#020001'
+    - '#3093d7'
+    - '#87270e'
+  brandStrength: 0.4375
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
